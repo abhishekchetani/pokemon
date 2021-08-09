@@ -1,8 +1,10 @@
+/* Setting Pokemon Div to Inline & Centering Text */
 .pokemon {
-    display: inline-block;
+    display: inline-block;      
     text-align: center;
 }
 
+/* Block Display for Images so text goes down instead of Inline */
 .pokemon img {
     display: block;
 }
